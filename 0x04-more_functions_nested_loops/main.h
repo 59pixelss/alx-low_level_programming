@@ -2,4 +2,4 @@
 #define MAIN_H
 int_putchar(char c);
 int _isupper(int c);
-#endif 
+#endif
